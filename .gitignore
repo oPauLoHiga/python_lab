@@ -1,0 +1,20 @@
+# PyCharm
+.idea/
+*.iml
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ambientes virtuais
+venv/
+.env/
+env/
+
+# Logs
+*.log
+
+# Config local
+.vscode/
